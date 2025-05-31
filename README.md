@@ -1,4 +1,4 @@
-# Intellect - ETS Answer Generator
+# Intellect - E 听说答案解包
 
-Intellct is a tool designed to generate answer for ETS by ETS' paper data.</br>
-ETS is a famous software to exam or practise English listening and speaking in China.
+## 原理
+E 听说的试题以及答案下载后在本地明文保存，本程序仅对答案内容进行读取。
