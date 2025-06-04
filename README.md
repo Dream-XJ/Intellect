@@ -9,7 +9,7 @@ E 听说的试题以及答案下载后在本地明文保存，本程序仅对答
 ### 使用方法
 1. 打开E听说电脑端，进入作业或考试，等待 E 听说软件将试卷下载完毕后，打开本程序。
 2. 按任意键开始解析
-3. 成功之后应该形如下图<br/>![image](https://github.com/user-attachments/assets/c8bc8430-24f0-4d93-92fb-e6c2ee5e1f32)
+3. 成功之后应该形如下图（若出现问题优先排查路径权限以及杀毒软件）<br/>![image](https://github.com/user-attachments/assets/c8bc8430-24f0-4d93-92fb-e6c2ee5e1f32)
 4. 答案将会在程序所在的路径下生成
 
 ---
